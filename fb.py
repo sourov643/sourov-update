@@ -3,5 +3,5 @@
 #------------হলকা মুতে শুয়ে পরেন😂😂😂
 
 import os
-import.ASH
-ASH.loging()
+import ASH
+ASH.loging.()
